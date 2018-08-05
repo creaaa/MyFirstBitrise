@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("3rd bitrise!")
+        print("4th bitrise!")
     }
     
 }
